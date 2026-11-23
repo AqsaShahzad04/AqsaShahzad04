@@ -1,50 +1,28 @@
 <h1 align="center">Hey, I'm Aqsa 👋</h1>
 
-<p align="center">
-  Full-Stack Developer & AI Engineer · Building AI-powered products with Python, FastAPI, React & LangChain
-</p>
+<p align="center"><strong>App Developer · Android & Flutter</strong></p>
 
 ---
 
 ## About Me
 
-I'm a Computer Science student building production-grade full-stack applications with AI at the core. My current flagship project is **SYNC** — an AI-powered healthcare platform for Pakistan — featuring an intelligent conversational agent with RAG (Retrieval-Augmented Generation), appointment management, and a full patient dashboard.
+I build mobile apps with Kotlin and Flutter. I graduated from the University of Sargodha in June 2026 with a BS in Computer Science. During my Android internship at Webscare, I built two apps in Kotlin. I also published Invoice Generator on Google Play, taking it from the first screen to a release people use.
 
-I'm also completing my Final Year Project **healthBridge**, an AI health assistant that helps users navigate healthcare information through conversational AI.
+## Skills
 
-- **Currently building:** SYNC (AI healthcare platform) · healthBridge FYP
-- **Stack:** React 19 · TypeScript · Python · FastAPI · Supabase · LangChain · PostgreSQL
-- **Interests:** AI agents, RAG pipelines, full-stack product development
+- **Android development** — Kotlin, Jetpack Compose, XML layouts
+- **Cross-platform development** — Flutter, Dart
+- **Architecture and data** — MVVM, Room, API integration, Firebase, Supabase
+- **AI and workflow automation** — LangChain, retrieval-augmented generation (RAG), n8n, Make
 
----
+## Mobile Apps
 
-## Tech Stack
+- **Invoice Generator** helps businesses manage clients, apply taxes and discounts, and create invoices. Built with Kotlin, XML, and Room. [View on Google Play](https://play.google.com/store/apps/details?id=com.vertex.invoicegenerator)
+- **CV Maker** guides users through entering their details and creating a CV. Built with Flutter and Dart.
+- **Expense Tracker** tracks spending against a monthly budget and shows category breakdowns. Built with Kotlin, MVVM, and Room. [View on GitHub](https://github.com/AqsaShahzad04/ExpenseTrackorApp)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React 19" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-</div>
 
----
-
-## Featured Projects
+## Other Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
